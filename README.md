@@ -1,3 +1,5 @@
+Project Page: https://www.opencompute.org/projects/open-accelerator-infrastructure
+
 # OCP-SVR-OAI-Open_Accelerator_Infrastructure
 
 **UPDATE 19AUG24**
